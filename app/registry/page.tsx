@@ -1,0 +1,2 @@
+import RegistryWorkspace from "@/components/RegistryWorkspace"
+export default function RegistryPage(){return <div className="fullPage"><div className="pageHeading compact"><div><div className="sectionEyebrow">BIOLOGICAL REGISTRY</div><h1>Registry</h1><p>Create canonical research entities, maintain lineage and connect them to sequences, inventory and experiments.</p></div></div><RegistryWorkspace/></div>}

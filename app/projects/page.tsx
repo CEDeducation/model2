@@ -1,0 +1,2 @@
+import ProjectsWorkspace from "@/components/ProjectsWorkspace"
+export default function ProjectsPage(){return <div className="fullPage"><div className="pageHeading compact"><div><div className="sectionEyebrow">RESEARCH PORTFOLIO</div><h1>Projects</h1><p>Group experiments and workflow tasks around a scientific objective without losing links to shared entities.</p></div></div><ProjectsWorkspace/></div>}
